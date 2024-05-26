@@ -1,4 +1,5 @@
-## Hi there 👋
+### Ola! Meu Nome é Artur Farias 👋
+# Sou atualmente estudande de Engenharia da Computação
 
 <!--
 **Fariasartuur/Fariasartuur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
