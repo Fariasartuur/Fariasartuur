@@ -2,6 +2,7 @@
 ### Sou atualmente estudande de Engenharia da Computação
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fariasartuur&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fariasartuur&layout=compact)
 
