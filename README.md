@@ -29,6 +29,7 @@ Estou focado em aprimorar minhas habilidades em **Python** e **SQL** para trabal
 #### **Entre em Contato**
 
 - 📫 **Instagram:** [@fariasartuur](https://www.instagram.com/fariasartuur/)
+- 👉🏼 **LinkedIn:** [fariasartuur](https://www.linkedin.com/in/fariasartuur/)
 
 ---
 
