@@ -1,5 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=7e22ce&height=200&section=header&text=Artur%20Farias&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Engenheiro%20de%20Computação%20em%20formação&descAlignY=62&descFontSize=20" width="100%" />
 
   <p>👋 Olá! Sou um estudante do 7º semestre de <strong>Engenharia de Computação</strong> apaixonado por transformar dados em soluções e ideias em código.</p>
   
