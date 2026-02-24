@@ -40,8 +40,8 @@
 ## 📈 Estatísticas de Desenvolvedor
 
 <div align="center">
-  <mg src="https://meu-github-stats.vercel.app/api?bg=020618&t=d8b4fe&st=f3e8ff&bc=7e22ce&gc=7e22ce&w=500&focus=java&type=langs" alt="Estatísticas do GitHub" />
-  <ig src="https://meu-github-stats.vercel.app/api?bg=020618&t=d8b4fe&st=f3e8ff&bc=7e22ce&gc=7e22ce&w=500&h=251&type=stats" alt="Estatísticas do GitHub" />
+  <img src="https://meu-github-stats.vercel.app/api?bg=020618&t=d8b4fe&st=f3e8ff&bc=7e22ce&gc=7e22ce&w=500&focus=java&type=langs" alt="Estatísticas do GitHub" />
+  <img src="https://meu-github-stats.vercel.app/api?bg=020618&t=d8b4fe&st=f3e8ff&bc=7e22ce&gc=7e22ce&w=500&h=251&type=stats" alt="Estatísticas do GitHub" />
 </div>
 
 <hr />
