@@ -28,7 +28,7 @@
 <hr />
 
 ## 📈 Estatísticas
-![Minhas Estatísticas](https://seu-projeto.vercel.app/api)
+![Minhas Estatísticas](https://meu-github-stats.vercel.app/api)
 
 <hr />
 
