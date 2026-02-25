@@ -12,7 +12,7 @@
 <hr />
 
 <div align="center">
-  <h3>🛠️ Tecnologias e Ferramentas</h3>
+  <h2>🛠️ Tecnologias e Ferramentas</h2>
 </div>
 
 <div align="center">
@@ -27,28 +27,14 @@
   <img src="./assets/DataBadge.svg" alt="Meus conhecimentos em Dados">
 </div>
 
-
-> **Backend & API**
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img alt="Spring" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-
-### 📊 Dados & Banco de Dados
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-</p>
-
 <hr />
 
-## 📈 Estatísticas de Desenvolvedor
+<div align="center">
+  <h2>📈 Estatísticas de Desenvolvedor</h2>
+</div>
 
 <div align="center">
   <img src="https://meu-github-stats.vercel.app/api?bgc=020618&tc=d8b4fe&stc=f3e8ff&bc=7e22ce&gc=7e22ce&w=500&focus=java&t=full" alt="Estatísticas do GitHub" />
-
 </div>
 
 <hr />
