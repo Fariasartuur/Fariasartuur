@@ -19,6 +19,14 @@
   <img src="./assets/FrontEndBadge.svg" alt="Meus conhecimentos em Front-End">
 </div>
 
+<div align="center">
+  <img src="./assets/BackEndBadge.svg" alt="Meus conhecimentos em Back-End">
+</div>
+
+<div align="center">
+  <img src="./assets/DataBadge.svg" alt="Meus conhecimentos em Dados">
+</div>
+
 
 > **Backend & API**
 <p>
