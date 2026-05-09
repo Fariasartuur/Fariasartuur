@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>👋 Olá! Sou um estudante de Engenharia de Computação</h3>
+  <h2>👋 Olá! Sou um estudante de Engenharia de Computação</h3>
   <p>Apaixonado por transformar dados em soluções e ideias em código.</p>
   
   <p>
@@ -8,8 +8,6 @@
     <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
   </p>
 </div>
-
-<hr />
 
 <div align="center">
   <h2>🛠️ Tecnologias e Ferramentas</h2>
@@ -27,17 +25,11 @@
   <img src="./assets/DataBadge.svg" alt="Meus conhecimentos em Dados">
 </div>
 
-<hr />
-
 <div align="center">
   <h2>📈 Estatísticas de Desenvolvedor</h2>
+  
+  <img src="https://github-readme-stats-gamma-nine-68.vercel.app/api?username=fariasartuur&show_icons=true&theme=synthwave" alt="Artur's GitHub stats" />
 </div>
-
-<div align="center">
-  <img src="https://meu-github-stats.vercel.app/api?bgc=020618&tc=d8b4fe&stc=f3e8ff&bc=7e22ce&gc=7e22ce&w=500&focus=java&t=full" alt="Estatísticas do GitHub" />
-</div>
-
-<hr />
 
 ## 📫 Vamos conversar?
 <div align="center">
